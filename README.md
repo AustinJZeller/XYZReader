@@ -1,4 +1,4 @@
-# Make Your App Material
+# Make Your App Material (XYZ Reader)
 
 Make Your App Material is the seventh project in Udacity's Android Developer Nanodegree. 
 
